@@ -1,9 +1,7 @@
-
-
-<div class="header" align="center">
+<div id="toc" class="header" align="center">
+  <ul><summary><h1>Hello there!</h1></summary></ul>
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnY0Y25razYwMnlrYTJ3MnYwMXB2OGN1ZGpwd2Yyb3BxejlkMXByMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jdPMeyv9rn0hZHh8n9/giphy.gif" alt="gif of a person who codes" width="200" height="200">
-  <div class="badges">
-</div>
+  <h3> Noa Houssier (<a href="https://github.com/NestorNebula">@nestornebula</a>)</h3>
 </div>
 
 ### 👨 About me
@@ -40,9 +38,22 @@
 
 ### 📊 My Stats
 
-[![NestorNebula GitHub stats](https://github-readme-stats.vercel.app/api?username=nestornebula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![NestorNebula GitHub stats](https://github-readme-stats.vercel.app/api?username=nestornebula&show_icons=true&theme=transparent&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nestornebula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nestornebula&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### 🔨 My Projects
+
+[![Odin-Book](https://github-readme-stats.vercel.app/api/pin/?username=nestornebula&repo=odin-book&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Messaging App](https://github-readme-stats.vercel.app/api/pin/?username=nestornebula&repo=messaging-app&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Where's Waldo?](https://github-readme-stats.vercel.app/api/pin/?username=nestornebula&repo=where-is-waldo&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Blog API](https://github-readme-stats.vercel.app/api/pin/?username=nestornebula&repo=blog-api&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![File Uploader](https://github-readme-stats.vercel.app/api/pin/?username=nestornebula&repo=file-uploader&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Inventory Application](https://github-readme-stats.vercel.app/api/pin/?username=nestornebula&repo=inventory-application&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Shopping Cart](https://github-readme-stats.vercel.app/api/pin/?username=nestornebula&repo=shopping-cart&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Battleship](https://github-readme-stats.vercel.app/api/pin/?username=nestornebula&repo=battleship&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 

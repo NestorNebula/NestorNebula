@@ -51,8 +51,6 @@
 [![Blog API](https://github-readme-stats.vercel.app/api/pin/?username=nestornebula&repo=blog-api&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 [![File Uploader](https://github-readme-stats.vercel.app/api/pin/?username=nestornebula&repo=file-uploader&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 [![Inventory Application](https://github-readme-stats.vercel.app/api/pin/?username=nestornebula&repo=inventory-application&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![Shopping Cart](https://github-readme-stats.vercel.app/api/pin/?username=nestornebula&repo=shopping-cart&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![Battleship](https://github-readme-stats.vercel.app/api/pin/?username=nestornebula&repo=battleship&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

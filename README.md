@@ -24,6 +24,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" width="50" height="50">&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" width="50" height="50">&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="50" height="50">&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="50" height="50">&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="50" height="50">&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="50" height="50">&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="50" height="50">&nbsp

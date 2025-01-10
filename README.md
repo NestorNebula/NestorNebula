@@ -44,18 +44,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nestornebula&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### 🔨 My Projects
-
-[![Odin-Book](https://github-readme-stats.vercel.app/api/pin/?username=nestornebula&repo=odin-book&theme=transparent)](https://github.com/NestorNebula/odin-book)
-[![Messaging App](https://github-readme-stats.vercel.app/api/pin/?username=nestornebula&repo=messaging-app&theme=transparent)](https://github.com/NestorNebula/messaging-app)
-[![Where's Waldo?](https://github-readme-stats.vercel.app/api/pin/?username=nestornebula&repo=where-is-waldo&theme=transparent)](https://github.com/NestorNebula/where-is-waldo)
-[![Blog API](https://github-readme-stats.vercel.app/api/pin/?username=nestornebula&repo=blog-api&theme=transparent)](https://github.com/NestorNebula/blog-api)
-[![File Uploader](https://github-readme-stats.vercel.app/api/pin/?username=nestornebula&repo=file-uploader&theme=transparent)](https://github.com/NestorNebula/file-uploader)
-[![Inventory Application](https://github-readme-stats.vercel.app/api/pin/?username=nestornebula&repo=inventory-application&theme=transparent)](https://github.com/NestorNebula/inventory-application)
-[![Shopping Cart](https://github-readme-stats.vercel.app/api/pin/?username=nestornebula&repo=shopping-cart&theme=transparent)](https://github.com/NestorNebula/shopping-cart)
-[![Battleship](https://github-readme-stats.vercel.app/api/pin/?username=nestornebula&repo=battleship&theme=transparent)](https://github.com/NestorNebula/battleship)
-
-
 
 
 <!--
